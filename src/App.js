@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Typed from "react-typed";
 
 function App() {
   return (
